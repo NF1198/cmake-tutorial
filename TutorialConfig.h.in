@@ -4,3 +4,9 @@
 
 // USE_MYMATH
 #cmakedefine USE_MYMATH
+
+// system introspection results
+//
+// does the platform provide exp and log functions?
+#cmakedefine HAVE_LOG
+#cmakedefine HAVE_EXP

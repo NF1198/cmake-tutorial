@@ -61,6 +61,7 @@ include (CPack)
 # Tests
 #
 include(CTest)
+set (CTEST_PROJECT_NAME "Tutorial")
 
 # does the application run
 add_test (TutorialRuns Tutorial 25)

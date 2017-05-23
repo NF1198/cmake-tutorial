@@ -5,3 +5,4 @@ Makefile
 Tutorial
 TutorialConfig.h
 **/*.a
+install_manifest.txt

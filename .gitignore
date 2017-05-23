@@ -11,3 +11,8 @@ DartConfiguration.tcl
 CTestTestfile.cmake
 MathFunctions/Table.h
 MathFunctions/MakeTable
+_CPack_Packages
+Tutorial-*-Linux.*
+Tutorial-*-Source.*
+CPackConfig*.cmake
+CPackSourceConfig*.cmake
